@@ -1,1 +1,2 @@
-# bounceOff_ARK
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
